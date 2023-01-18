@@ -1,0 +1,20 @@
+header{
+    background: url(image/hero-bg.png) no-repeat center;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: -250px;
+}
+header ul li{
+    padding: 0px 15px;
+}
+header h1{
+    
+}
+
+/* -------About Part------------- */
+#about{
+    background: url(image/about-bg.png) no-repeat;
+    background-size: cover;
+    padding: 250px 0px 150px;
+    backface-visibility: hidden;
+}
